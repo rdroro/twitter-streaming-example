@@ -1,0 +1,21 @@
+{
+  "name": "twitter-streaming-example",
+  "version": "0.1.0",
+  "description": "An example of using Twitter Streaming API to save tweets in MongoDB or just to play with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitter",
+    "streaming",
+    "api",
+    "mongodb"
+  ],
+  "author": "Romain Dubos <romain.dubos@gmail.com>",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "mongodb": "^2.1.17",
+    "twitter": "^1.2.5"
+  }
+}
