@@ -13,7 +13,7 @@ First, edit the config file locate in `config/twitter-config.js` to :
 
 ### Authentication information
 
-You can write your information directly in `config/twitter-config.js` or set it via ENV start.
+You can write your information directly in `config/twitter-config.js` or set it via environment variable.
 
     auth: {
         consumer_key: process.env.TWITTER_CONSUMER_KEY || 'OR_YOUR_KEY_HERE',
