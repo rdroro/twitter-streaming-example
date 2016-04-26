@@ -12,6 +12,10 @@
     "api",
     "mongodb"
   ],
+  "scripts": {
+      "docker-build": "docker build -t twitter-streaming:${npm_package_version} .",
+      "docker-tag-image": "docker tag twitter-streaming:${npm_package_version} twitter-streaming"
+  },
   "author": "Romain Dubos <romain.dubos@gmail.com>",
   "license": "LGPL-3.0",
   "dependencies": {
