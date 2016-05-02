@@ -14,7 +14,9 @@
   ],
   "scripts": {
       "docker-build": "docker build -t twitter-streaming:${npm_package_version} .",
-      "docker-tag-image": "docker tag twitter-streaming:${npm_package_version} twitter-streaming"
+      "docker-tag-image": "docker tag twitter-streaming:${npm_package_version} twitter-streaming",
+      "docker-run-it": "docker run -it --rm --name twitter-streaming-example -v $(pwd):/opt/app --link mongo-tweets:mongo twitter-streaming bash",
+      "docker-run-db": "docker run -d -v $(pwd)/db:/data/db --name mongo-tweets mongo"
   },
   "author": "Romain Dubos <romain.dubos@gmail.com>",
   "license": "LGPL-3.0",

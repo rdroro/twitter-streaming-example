@@ -1,0 +1,192 @@
+{
+    "_id": {
+        "$oid": "57207eeb57619a0600f3e0a8"
+    },
+    "created_at": "Wed Apr 27 08:57:13 +0000 2016",
+    "id": 725247418783158300,
+    "id_str": "725247418783158272",
+    "text": "RT @Schienenallianz: #Kaufprämie für E-Autos ist reine Straßenbeihilfe - Förderung von Elektromobilität mit Steuermitteln \"phantasielos\": h…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 923544086,
+        "id_str": "923544086",
+        "name": "Critical Mass Altona",
+        "screen_name": "cm_altona",
+        "location": "Hamburg",
+        "url": "http://www.critical-mass-altona.de/",
+        "description": "Radfahren & Radverkehr im Bezirk Altona Ottensen Bahrenfeld Blankenese Lurup Osdorf Rissen. Wir sind Verkehr. Radtour 2. Fr 18 h + Letzter Fr 18:30 h zur @cm_hh",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1560,
+        "friends_count": 442,
+        "listed_count": 61,
+        "favourites_count": 2942,
+        "statuses_count": 10532,
+        "created_at": "Sat Nov 03 16:26:08 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "de",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/702556999/0ce82ee48ebcd3f105d22c0d86e69812.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/702556999/0ce82ee48ebcd3f105d22c0d86e69812.jpeg",
+        "profile_background_tile": false,
+        "profile_link_color": "00C940",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/456181257278201856/bsutIn62_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/456181257278201856/bsutIn62_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/923544086/1413757892",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Apr 27 08:08:48 +0000 2016",
+        "id": 725235234703327200,
+        "id_str": "725235234703327232",
+        "text": "#Kaufprämie für E-Autos ist reine Straßenbeihilfe - Förderung von Elektromobilität mit Steuermitteln \"phantasielos\": https://t.co/q6UgxfSM81",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 122325003,
+            "id_str": "122325003",
+            "name": "Allianz pro Schiene",
+            "screen_name": "Schienenallianz",
+            "location": "Berlin",
+            "url": "http://www.allianz-pro-schiene.de",
+            "description": "Die Allianz pro Schiene ist das Bündnis zur Förderung des umweltfreundlichen und sicheren Schienenverkehrs.",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1314,
+            "friends_count": 210,
+            "listed_count": 60,
+            "favourites_count": 187,
+            "statuses_count": 419,
+            "created_at": "Fri Mar 12 09:48:08 +0000 2010",
+            "utc_offset": 7200,
+            "time_zone": "Vienna",
+            "geo_enabled": false,
+            "lang": "de",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "CFE2F3",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/203668507/Allianz_pro_Schiene_new_Twitter.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/203668507/Allianz_pro_Schiene_new_Twitter.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0067AB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/753692190/APS_Kreis__png__72_dpi__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/753692190/APS_Kreis__png__72_dpi__normal.png",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 5,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Kaufprämie",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/q6UgxfSM81",
+                    "expanded_url": "https://www.allianz-pro-schiene.de/presse/pressemitteilungen/kaufpraemie-fuer-elektroautos-ist-reine-strassenbeihilfe/",
+                    "display_url": "allianz-pro-schiene.de/presse/pressem…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Kaufprämie",
+                "indices": [
+                    21,
+                    32
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/q6UgxfSM81",
+                "expanded_url": "https://www.allianz-pro-schiene.de/presse/pressemitteilungen/kaufpraemie-fuer-elektroautos-ist-reine-strassenbeihilfe/",
+                "display_url": "allianz-pro-schiene.de/presse/pressem…",
+                "indices": [
+                    139,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Schienenallianz",
+                "name": "Allianz pro Schiene",
+                "id": 122325003,
+                "id_str": "122325003",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1461747433740"
+}

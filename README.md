@@ -55,3 +55,11 @@ If you want to change the code without build the container again, you can mount 
 * docker run -d --name mongo-tweets mongo
 * docker run -it --rm --name twitter-streaming-example -v $(pwd):/opt/app --link mongo-tweets:mongo twitter-streaming bash
 * run docker with --link mongo
+
+
+## running
+
+De 10h45 à 11h36 : 27 tweet avec uniquement 'allianz'
+depuis 11h36 : ensuite avec 'allianz,allianzfrance,allianzavecvous'
+
+MapR --> regarder ce que c'est
